@@ -6,9 +6,9 @@
 # แฟ้ม
     - DPRJ  : เตรียมสำหรับเก็บ source file 
                - การ complie โปรแกรม ".c" ให้เป็น ".exe" ใช้ c.bat
-                  เช่น c wcloader  ผลลัพทธ์  wcloader.exe 
+                  เช่น c wcloader  ได้  wcloader.exe 
               - การ complie โปรแกรม ".c" ให้เป็น ".com" ใช้ b.bat
-                  เช่น  b app2   ผลลัพทธ์  app2.com
+                  เช่น  b app2   ได้  app2.com
     - tools : utility programs
     - WATCOM: Watcom C/C++ ที่พร้อมใช้งาน
     - AUTOEXEC.BAT : ไฟล์ "BAT" ทำหน้าที่ set path โดยให้สั่ง run เป็นลำดับแรก
